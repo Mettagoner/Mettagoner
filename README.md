@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mettagoner
 - I am currently working with: C++ and C#
-- I am currently trying to learning: HTML5, CSS3, and Javascript
-- I have completed (1) project, so far!
+- I am currently trying to learn: HTML5, CSS3, and Javascript
 
 <!---
 Mettagoner/Mettagoner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
