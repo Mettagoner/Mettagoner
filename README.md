@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mettagoner
+- 👋 Hi, I’m Dan Fewell
 - I am currently working with: C++ and C#
 - I am currently learning: HTML5, CSS3, and Javascript
 
