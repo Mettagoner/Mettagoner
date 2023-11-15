@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Dan Fewell
-- I am currently working with: C++ and C#
-- I am currently learning: HTML5, CSS3, and Javascript
+## Intro
+- 👋 Hi, I’m Dan Fewell, a software engineer based in New York, NY. I'm currently pursuing my Bachelor of Science in Computer Science at Fordham College. With a blend of skills in programming languages like C++, JavaScript, Python, and more, I thrive in creating impactful software.
 
-<!---
-Mettagoner/Mettagoner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+- **Programming Languages**: Proficient in C++, JavaScript, Python, HTML, CSS, SQL, PHP.
+- **Operating Systems**: Experienced with Windows 10.
+- **Cloud Technology**: Experienced in Amazon S3.
+
+## Contributions and Contact
+I welcome contributions to any of my work. Feel free to fork, submit pull requests, or reach out with ideas and feedback.
+
+- **Email**: danfdev33@gmail.com
